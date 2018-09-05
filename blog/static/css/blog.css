@@ -58,3 +58,7 @@ h1, h2, h3, h4 {
 .inline-btn{
     float: right;
 }
+
+.small-text, .small-text:visited, .small-text:hover{
+    font-size: 20px;
+}
